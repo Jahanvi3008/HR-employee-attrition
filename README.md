@@ -16,12 +16,29 @@ This project predicts whether an employee will leave a company based on historic
 - 1,470 rows × 35 features
 - Target: `Attrition` (Yes/No)
 
-## 🚀 How to Run
-
+## 🚀 How to Run the Project Locally
 ```bash
+
+Copy
+Edit
+# 1. Clone the repository
+git clone https://github.com/jahanvi3008/hr-employee-attrition.git
+
+# 2. Navigate to the project folder
+cd hr-employee-attrition
+
+# 3. Install the required libraries
 pip install -r requirements.txt
+
+# 4. Run the Streamlit app
 streamlit run streamlit_app.py
+
 ```
+
+🌐 Streamlit Demo
+👉 Try the live app here:
+(https://hr-employee-attrition-9yqtxnz2b3atjpgoa6g5wi.streamlit.app/)
+
 
 ## 🔍 Features Used
 
